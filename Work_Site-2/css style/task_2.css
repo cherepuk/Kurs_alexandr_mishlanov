@@ -1,0 +1,215 @@
+.back-pic{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
+
+.nose{
+    width: 13px; 
+    height: 13px;
+    background: #603c26;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 94px;
+    margin-left: 84px;
+}
+
+.eyes{
+    width: 16px; 
+    height: 16px;
+    background: #000000;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 84px;
+    margin-left: 145px;
+}
+
+.head{
+    width: 70px;
+    height: 40px;
+    position: absolute;
+    border-radius: 1ch;
+    background: linear-gradient(45deg, #8a5b3e, #cdad99);
+    margin-top: 90px;
+    margin-left: 90px;
+    transform: rotate(-10deg);
+}
+
+.neck {
+    position: absolute;
+    width: 87px; 
+    height: 43px;
+    background: #9a735b;
+    border-radius: 100px/50px;
+    margin-top: 100px;
+    margin-left: 120px;
+    transform: rotate(90deg);
+}
+
+
+.ear {
+    position: absolute;
+    width: 70px; 
+    height: 35px;
+    background: radial-gradient(circle 30px at 20px 16px, #f3e7e0, transparent);
+    background-color: #ab7655;
+    border-radius: 100px/50px;
+    margin-top: 110px;
+    margin-left: 130px;
+    transform: rotate(90deg);
+}
+
+.leg-1{
+    position: absolute;
+    width: 60px;
+    height: 20px;
+    background: radial-gradient(circle 20px at 30px 6px, #e3dbd6, transparent);
+    background-color: #8a5b3e;
+    border-radius: 2ch;
+    transform: rotate(100deg);
+    margin-top: 197px;
+    margin-left: 140px;
+}
+
+.leg-2 {
+    position: absolute;
+    width: 60px;
+    height: 20px;
+    background: radial-gradient(circle 20px at 30px 6px, #e3dbd6, transparent);
+    background-color: #8a5b3e;
+    border-radius: 2ch;
+    transform: rotate(80deg);
+    margin-top: 197px;
+    margin-left: 198px;
+}
+
+.body-dog {
+    position: absolute;
+    width: 100px; 
+    height: 50px;
+    background: #8a5b3e;
+    border-radius: 100px/50px;
+    margin-top: 140px;
+    margin-left: 147px;
+}
+
+.tail {
+    position: absolute;
+    width: 50px; 
+    height: 50px; 
+    margin: -10px 0 10px 0;
+    border-radius: 50%;
+    box-shadow: 10px 10px 0 0 #8a5b3e;
+    margin-top: 100px;
+    margin-left: 210px;
+}
+
+/* лапы */
+.paw-1{
+    position: absolute;
+    width: 30px;
+    height: 15px;
+    background: radial-gradient(circle 10px at 10px 6px, #e3dbd6, transparent);  
+    background-color: #8a5b3e;
+    border-top-left-radius: 15px 15px;
+    border-top-right-radius: 15px 15px;
+    margin-top: 235px;
+    margin-left: 150px;
+}
+.paw-2{
+    position: absolute;
+    width: 30px;
+    height: 15px;
+    background: radial-gradient(circle 10px at 10px 6px, #e3dbd6, transparent);  
+    background-color: #8a5b3e;
+    border-top-left-radius: 15px 15px;
+    border-top-right-radius: 15px 15px;
+    margin-top: 235px;
+    margin-left: 220px;
+}
+
+/* ящик */ 
+.box{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-top:250px;
+    margin-left: 140px;
+    border-radius: 1ch;
+    background-color: #ea874a;
+}
+
+.rack{
+    position: absolute;
+    width: 150px;
+    height: 15px;
+    position: absolute;
+    margin-top:360px;
+    margin-left: 125px;
+    border-radius: 1ch;
+    background-color: #bf6b37;
+}
+
+.triangle-1 {
+    position: absolute;
+    width: 0; 
+    height: 0;
+    margin-top:320px;
+    margin-left: 150px;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 30px solid #bf6b37;
+}
+
+.triangle-2 {
+    position: absolute;
+    width: 0; 
+    height: 0;
+    margin-top:320px;
+    margin-left: 185px;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 30px solid #bf6b37;
+}
+
+.triangle-3 {
+    position: absolute;
+    width: 0; 
+    height: 0;
+    margin-top:320px;
+    margin-left: 220px;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 30px solid #bf6b37;
+}
+
+.the-strip-1 {
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 150px;
+    border-radius: 1ch;
+    background-color: #bf6b37;
+}
+
+.the-strip-2 {
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    margin-top: 285px;
+    margin-left: 150px;
+    border-radius: 1ch;
+    background-color: #bf6b37;
+}
+
+.the-strip-3 {
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 150px;
+    border-radius: 1ch;
+    background-color: #bf6b37;
+}

@@ -1,0 +1,33 @@
+.class1 {
+    background-color: blue;
+}
+
+.class2 {
+    background-color: green;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.phrasesTable {
+    width: 100%;
+    color: white;
+}
+
+#phrasesTable td, #phrasesTable th {
+    border: 1px solid #ddd;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.bottom-table {
+
+    padding: 10px 20px;
+	margin-right: 20px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    color: #000000;
+    text-decoration: none;
+    margin-top: 20px;
+}

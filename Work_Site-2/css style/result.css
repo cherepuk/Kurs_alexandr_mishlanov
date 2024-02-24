@@ -1,0 +1,45 @@
+
+.result-center-block{
+    border: 2px solid #fff;
+    border-radius: 1ch;
+    margin-top: 10ch;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+}
+
+.div-local-storage{
+    border: 2px solid #fff;
+    border-radius: 1ch;
+    margin: 1ch;
+    width: auto;
+    height: 50px;
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.text-result {
+    font-size: large;
+    font-style: normal;
+    color: white;
+    margin: 1ch;
+}
+
+.div-number{
+    margin: 1ch;
+    height: 40px;
+    width: 40px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 1ch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

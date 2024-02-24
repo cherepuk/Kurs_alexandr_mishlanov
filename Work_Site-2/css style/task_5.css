@@ -1,0 +1,17 @@
+.container-task5 {
+    height: 700px;
+    background-color: antiquewhite;
+    border-radius: 1%;
+    
+}
+
+.completing-task {
+    height: 40px;
+    width: 40px;
+    background-color: brown;
+    border-radius: 50%;
+}
+
+.result-task5{
+    font-size: 20px;
+}
